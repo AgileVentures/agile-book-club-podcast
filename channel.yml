@@ -1,3 +1,7 @@
 :title: 'Agile Book Club Podcast'
 :description: 'AgileVentures.org panelists discussion on selected books and topics relating to agile development, team collaboration, and software engineering.'
-:url: 'https://github.com/AgileVentures/agile-book-club-podcast/raw/master/'
+:url: 'https://www.agileventures.org'
+:image_url: 'https://raw.githubusercontent.com/AgileVentures/agile-book-club-podcast/master/AgileVentures-Bookclub-Logo-official.png'
+:author: 'AgileVentures.org'
+:categories: 'Technology'
+:keywords: [agile, software-engineering, user-stories]
