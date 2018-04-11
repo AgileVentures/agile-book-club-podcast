@@ -3,21 +3,29 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Agile Book Club Podcast</title>
-    <link>https://github.com/AgileVentures/agile-book-club-podcast/raw/master/</link>
+    <link>https://www.agileventures.org</link>
     <description>AgileVentures.org panelists discussion on selected books and topics relating to agile development, team collaboration, and software engineering.</description>
     <itunes:summary>AgileVentures.org panelists discussion on selected books and topics relating to agile development, team collaboration, and software engineering.</itunes:summary>
+    
+    
+    
+    
     <itunes:author>AgileVentures.org</itunes:author>
+    
+    
+    
     <itunes:image href="https://raw.githubusercontent.com/AgileVentures/agile-book-club-podcast/master/AgileVentures-Bookclub-Logo-official.png"/>
-
     
+  
     
-    
-    
+    <itunes:category text="Technology"/>
     
   
   
 	<generator>Dropcaster 0.0.8</generator>
 	
+    <itunes:keywords>agile,software-engineering,user-stories</itunes:keywords>
+  
   
     <item>
       <title>Ep. 6: Agile Book Club podcast - Fifty Quick Ideas to Improve your User Stories by Adzic/Evans</title>
