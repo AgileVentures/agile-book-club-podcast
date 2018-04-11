@@ -6,7 +6,9 @@
     <link>https://github.com/AgileVentures/agile-book-club-podcast/raw/master/</link>
     <description>AgileVentures.org panelists discussion on selected books and topics relating to agile development, team collaboration, and software engineering.</description>
     <itunes:summary>AgileVentures.org panelists discussion on selected books and topics relating to agile development, team collaboration, and software engineering.</itunes:summary>
-    
+    <itunes:author>AgileVentures.org</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/AgileVentures/agile-book-club-podcast/master/AgileVentures-Bookclub-Logo-official.png"/>
+
     
     
     
